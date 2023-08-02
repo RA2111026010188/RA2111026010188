@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bommina Sriram
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning python
 - 📫 How to reach me : bk2697@srmist.edu.in
 
 <!---
